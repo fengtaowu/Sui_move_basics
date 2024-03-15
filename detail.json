@@ -1,0 +1,28 @@
+[
+    {
+        "objectId": "0x75b61d954f0830f551eb9d9edaa899e8e1a1f16fde3338b6a3a627e34f250df6",
+        "version": "63",
+        "digest": "8RWurD7uHzH9YTNe13ySwvqMM7q5tRt5oPNkuG1EiKM",
+        "type": "0xa3a0ce26573ddc69f3ba396df2a72d77f3702e37e1195c7f46dc6e2666250937::object_basics::Object",
+        "owner": {
+            "AddressOwner": "0xeb20604a19b3c560618b73ea991c8c1215856b64a118b3c59a2c7c9e4dd47f87"
+        },
+        "previousTransaction": "BT48zzTjdi67hCnr3EFmbbNvUh8Cne3wigJRbjBMCaXH",
+        "storageRebate": "1398400",
+        "display": {
+            "data": null,
+            "error": null
+        },
+        "content": {
+            "dataType": "moveObject",
+            "type": "0xa3a0ce26573ddc69f3ba396df2a72d77f3702e37e1195c7f46dc6e2666250937::object_basics::Object",
+            "hasPublicTransfer": true,
+            "fields": {
+                "id": {
+                    "id": "0x75b61d954f0830f551eb9d9edaa899e8e1a1f16fde3338b6a3a627e34f250df6"
+                },
+                "value": "202403"
+            }
+        }
+    }
+]
